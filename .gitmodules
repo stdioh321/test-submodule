@@ -1,0 +1,3 @@
+[submodule "redis-pub_sub-node"]
+	path = redis-pub_sub-node
+	url = git@github.com:stdioh321/redis-pub_sub-node.git
